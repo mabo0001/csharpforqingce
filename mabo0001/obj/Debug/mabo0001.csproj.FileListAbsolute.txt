@@ -1,0 +1,8 @@
+c:\users\lenovo\documents\visual studio 2015\Projects\mabo0001\mabo0001\bin\Debug\mabo0001.exe.config
+c:\users\lenovo\documents\visual studio 2015\Projects\mabo0001\mabo0001\bin\Debug\mabo0001.exe
+c:\users\lenovo\documents\visual studio 2015\Projects\mabo0001\mabo0001\bin\Debug\mabo0001.pdb
+c:\users\lenovo\documents\visual studio 2015\Projects\mabo0001\mabo0001\obj\Debug\mabo0001.csprojResolveAssemblyReference.cache
+c:\users\lenovo\documents\visual studio 2015\Projects\mabo0001\mabo0001\obj\Debug\Interop.Office.dll
+c:\users\lenovo\documents\visual studio 2015\Projects\mabo0001\mabo0001\obj\Debug\mabo0001.csproj.ResolveComReference.cache
+c:\users\lenovo\documents\visual studio 2015\Projects\mabo0001\mabo0001\obj\Debug\mabo0001.exe
+c:\users\lenovo\documents\visual studio 2015\Projects\mabo0001\mabo0001\obj\Debug\mabo0001.pdb
